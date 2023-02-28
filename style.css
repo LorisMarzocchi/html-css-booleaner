@@ -1,0 +1,112 @@
+body {
+    margin: 0;
+}
+
+
+header {
+    background-image: url("img/pattern.png");
+    background-color: #4ea0ff;
+    background-size: 370px;
+}
+
+.logo {
+    margin-top: 40px;
+    width: 200px;
+    
+}
+
+main {
+    margin-left: 1%;
+}
+
+.titolo {
+    font-size: 35px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    }
+
+
+.autor {
+    color: gray;
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+ }
+
+.gray-data {
+    color: gray;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 0;
+ }
+
+ .foto {
+    margin-top: 10px;
+ }
+
+ .caption {
+    font-size: 12px;
+    margin: 0px;
+}
+
+.paragrafo-ev {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.evidenziatore {
+    
+    background-color: yellow;
+    
+}
+
+table{
+    border-spacing: 0;
+    text-align: left;
+}
+
+table th{
+    background-color:dodgerblue;
+    color: white;
+}
+
+.colore-tabella{
+    background-color: lightskyblue;
+}
+
+.larghezza-tabella{
+
+    width: 25%;
+}
+
+.about{
+    color: gray;
+    font-size: 16px;
+    margin-top: 2%;
+    margin-bottom: 1%;
+
+}
+
+.container {
+    width: auto;
+    height: 210px;
+    background-repeat: no-repeat;
+    margin-bottom: 5px;
+} 
+
+.monitor {
+    background-image: url(img/monitor.jpg);
+    background-size: 300px 208px;
+}
+
+.graph {
+    background-image: url(img/graph.jpg);
+    background-size: 300px 208px;
+   
+}
+
+.titolo-interno {
+    color: white;
+    font-size: 20pt;
+    font-weight: 800;
+}
